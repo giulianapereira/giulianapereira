@@ -18,20 +18,19 @@
 </div>
 
 ---
-<!---
+
 ### 🌟 Projetos em Destaque
 
-- 📌 [Meu Primeiro Projeto Django](https://github.com/seuusuario/projeto1) – Sistema simples de blog com autenticação de usuários.
-- 📌 [App em Python](https://github.com/seuusuario/projeto2) – Projeto com foco em lógica e automação de tarefas.
-
+- 📌[Meu Primeiro Projeto Django](https://github.com/giulianapereira/sistema_login_cadastro) – Sistema simples de cadastro de novos usuários e login. 
+<!--- - 📌 [App em Python](https://github.com/seuusuario/projeto2) – Projeto com foco em lógica e automação de tarefas. --->
 ---
---->
+
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula" />
-</div>
+| Estatísticas | Linguagens mais usadas |
+| ------------ | ---------------------- |
+| ![Giuliana GitHub Stats](https://github-readme-stats.vercel.app/api?username=giulianapereira&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giulianapereira&layout=compact&theme=dracula) |
+
 
 ---
 
@@ -46,7 +45,5 @@
 
 ### 💡 Um toque pessoal
 
-> “Transformando café em código ☕ e ideias em soluções 🚀”
-
 🌱 Em constante aprendizado com foco em Python/Django.  
-🎯 Em busca de oportunidades como dev júnior/estágiario backend ou fullstack.
+🎯 Em busca de oportunidades estágiario backend ou fullstack.
